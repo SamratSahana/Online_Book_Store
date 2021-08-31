@@ -1,0 +1,40 @@
+.sign-up-container {
+	border: 1px solid;
+	border-color: #9a9a9a;
+	background: #fff;
+	border-radius: 4px;
+	padding: 10px;
+	width: 350px;
+	margin: 50px auto;
+}
+
+.page-header {
+	float: right;
+}
+
+.login-signup {
+	margin: 10px;
+	text-decoration: none;
+	float: right;
+}
+
+.login-signup a {
+	text-decoration: none;
+	font-weight: 700;
+}
+
+.signup-heading {
+	font-size: 2em;
+	font-weight: bold;
+	padding-top: 60px;
+	text-align: center;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.row {
+	margin: 15px 0px;
+	text-align: center;
+}
